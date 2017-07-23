@@ -1,0 +1,59 @@
+SNF2h51nMATP1mM_postTraces/Spot1_120.mat end=361
+#SNF2h51nMATP1mM_postTraces/Spot1_122.mat
+SNF2h51nMATP1mM_postTraces/Spot1_123.mat end=400
+SNF2h51nMATP1mM_postTraces/Spot1_125.mat end=300
+SNF2h51nMATP1mM_postTraces/Spot1_128.mat end=550
+SNF2h51nMATP1mM_postTraces/Spot1_130.mat end=500
+#SNF2h51nMATP1mM_postTraces/Spot1_132.mat
+SNF2h51nMATP1mM_postTraces/Spot1_139.mat end=600
+SNF2h51nMATP1mM_postTraces/Spot1_141.mat end=550
+SNF2h51nMATP1mM_postTraces/Spot1_142.mat end=500
+SNF2h51nMATP1mM_postTraces/Spot1_143.mat end=440
+#SNF2h51nMATP1mM_postTraces/Spot1_154.mat
+#SNF2h51nMATP1mM_postTraces/Spot1_155.mat
+#SNF2h51nMATP1mM_postTraces/Spot1_171.mat
+SNF2h51nMATP1mM_postTraces/Spot1_175.mat
+SNF2h51nMATP1mM_postTraces/Spot1_177.mat
+SNF2h51nMATP1mM_postTraces/Spot1_186.mat
+#SNF2h51nMATP1mM_postTraces/Spot1_189.mat
+#SNF2h51nMATP1mM_postTraces/Spot1_190.mat
+SNF2h51nMATP1mM_postTraces/Spot1_192.mat end=737
+SNF2h51nMATP1mM_postTraces/Spot1_195.mat start=75 end=260
+SNF2h51nMATP1mM_postTraces/Spot1_197.mat end=400
+SNF2h51nMATP1mM_postTraces/Spot1_205.mat end=400
+SNF2h51nMATP1mM_postTraces/Spot1_206.mat start=100 end=450
+#SNF2h51nMATP1mM_postTraces/Spot1_208.mat
+#SNF2h51nMATP1mM_postTraces/Spot1_215.mat
+SNF2h51nMATP1mM_postTraces/Spot1_217.mat
+SNF2h51nMATP1mM_postTraces/Spot1_220.mat
+#SNF2h51nMATP1mM_postTraces/Spot1_221.mat
+SNF2h51nMATP1mM_postTraces/Spot1_226.mat end=550
+SNF2h51nMATP1mM_postTraces/Spot1_230.mat
+SNF2h51nMATP1mM_postTraces/Spot1_235.mat start=20
+#SNF2h51nMATP1mM_postTraces/Spot1_241.mat
+SNF2h51nMATP1mM_postTraces/Spot1_242.mat end=170
+#SNF2h51nMATP1mM_postTraces/Spot1_244.mat
+#SNF2h51nMATP1mM_postTraces/Spot1_254.mat
+SNF2h51nMATP1mM_postTraces/Spot1_261.mat end=270
+#SNF2h51nMATP1mM_postTraces/Spot1_266.mat
+#SNF2h51nMATP1mM_postTraces/Spot1_275.mat
+SNF2h51nMATP1mM_postTraces/Spot1_276.mat end=200
+#SNF2h51nMATP1mM_postTraces/Spot1_279.mat
+SNF2h51nMATP1mM_postTraces/Spot1_280.mat end=650
+#SNF2h51nMATP1mM_postTraces/Spot1_281.mat
+SNF2h51nMATP1mM_postTraces/Spot1_291.mat start=100 end=820
+#SNF2h51nMATP1mM_postTraces/Spot1_296.mat
+#SNF2h51nMATP1mM_postTraces/Spot1_302.mat
+SNF2h51nMATP1mM_postTraces/Spot1_307.mat end=400
+SNF2h51nMATP1mM_postTraces/Spot1_308.mat
+SNF2h51nMATP1mM_postTraces/Spot1_309.mat start=70
+SNF2h51nMATP1mM_postTraces/Spot1_318.mat end=320
+SNF2h51nMATP1mM_postTraces/Spot1_320.mat
+SNF2h51nMATP1mM_postTraces/Spot1_324.mat end=600
+SNF2h51nMATP1mM_postTraces/Spot1_325.mat end=493
+SNF2h51nMATP1mM_postTraces/Spot1_327.mat
+#SNF2h51nMATP1mM_postTraces/Spot1_330.mat
+#SNF2h51nMATP1mM_postTraces/Spot1_335.mat
+SNF2h51nMATP1mM_postTraces/Spot1_336.mat end=600
+SNF2h51nMATP1mM_postTraces/Spot1_345.mat end=500
+#SNF2h51nMATP1mM_postTraces/Spot1_58.mat
