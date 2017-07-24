@@ -36,7 +36,7 @@ To run the pyhsmm HMM analysis on a selection of trajectories saved from this da
 
 2. In ExamineHMMresults.m, find the calls to setenv and change those lines to point to the location of your python installation.
 
-3. ExamineHMMresults uses a text file called goodtraces to crop data and exclude traces from analysis. A template goodtraces.txt file is included in Traces/extras/pyhsmm_for_Traces. An example that goes with the sample data in this repo can be found in AnalysisFiles/pyshmm_Output/SNF2h51nMATP1mM_analyzed. 
+3. ExamineHMMresults() uses a text file called goodtraces to crop data and exclude traces from analysis. A template goodtraces.txt file is included in Traces/extras/pyhsmm_for_Traces. An example that goes with the sample data in this repo can be found in AnalysisFiles/pyshmm_Output/SNF2h51nMATP1mM_analyzed. 
 
 From the Traces/extras/physmm_for_Traces directory (or whatever directory contains ExamineHMMresults.m), run
 
