@@ -2,7 +2,7 @@
 
 Sample data to accompany the single-molecule FRET analysis software [Traces](https://github.com/stephlj/Traces).
 
-NOTE: Total repository size is roughly 14 GB, including all raw files and analysis files.
+NOTE: Total repository size is roughly 3 GB, including all raw files and analysis files.
 
 # Analyzing this sample data with Traces
 
