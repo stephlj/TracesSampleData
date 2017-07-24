@@ -18,7 +18,7 @@ To use the channel map provided in ChannelMapping.mat, run the same command to T
 
 To load the analysis files provided in this repository, in order to view the data, already processed, in the Traces GUI:
 
-1. Copy Analysis_Files/Traces_Output/SNF2h51nMATP1mM to the directory indicated by <defaultsavedir> in TracesSetup.m
+1. Copy Analysis_Files/Traces_Output/SNF2h51nMATP1mM to the directory indicated by defaultsavedir in TracesSetup.m
 
 2. Run the Traces command as above, choosing L to load a previously generated channel map as before. 
 
